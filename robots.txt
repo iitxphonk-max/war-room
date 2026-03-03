@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iitxphonk-max.github.io/war-room/sitemap.xml
